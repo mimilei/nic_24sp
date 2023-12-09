@@ -11,15 +11,15 @@ Jan 8
   : No readings
 
 Jan 15
-: [Synthetic Biology for Organism Augmentation](#)
+: Synthetic Biology for Organism Augmentation
   : [Case Study](#), [Deepdive](#)
 
 Jan 22
-: [Fabricating with Bacteria](#) <br/> Bioprinter Tutorial
+: Fabricating with Bacteria <br/> Bioprinter Tutorial
   : [Case Study](#), [Deepdive](#)
   
 Jan 29
-: [Microbial Fuel Cells](#)
+: Microbial Fuel Cells
   : [Case Study](#), [Deepdive Paper](#)
 
 Feb 5
@@ -27,7 +27,7 @@ Feb 5
   : [Case Study](#), [Deepdive](#)
 
 Feb 12
-: [Plant Nanobionics](#) <br/> Final project overview
+: Plant Nanobionics <br/> Final project overview
   : [Case Study](#), [Deepdive](#)
 
 Feb 19
