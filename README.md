@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Nature-Integrated Computing
+title: Home
 nav_exclude: true
 permalink: /:path/
 seo:
@@ -8,7 +8,8 @@ seo:
   name: Nature-Integrated Computing
 ---
 ![splash_img](assets/images/nic_sampler.png)
-_(Left to Right) Living actuators, plant wearables, printed cyanobacteria, electronic beetle backpack, DNA data storage._
+###### _(Left to Right) Living actuators, plant wearables, printed cyanobacteria, electronic beetle backpack, DNA data storage._
+<!-- _(Left to Right) Living actuators, plant wearables, printed cyanobacteria, electronic beetle backpack, DNA data storage._ -->
 # CSE 5XX: Nature-Integrated Computing
 ### Approaches for Engineering, Computing, and Interfacing with Living Materials 
 #### University of Washington, Winter 2024

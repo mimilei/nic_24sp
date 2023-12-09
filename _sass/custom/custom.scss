@@ -8,6 +8,7 @@
 @import 'staffer';
 
 // Overrides
+
 code {
   font-size: 14px;
   padding: 0.2em 0.4em;
@@ -41,9 +42,39 @@ summary {
   margin: auto;
 }
 
+.side-bar {
+  .site-header {
+    border-bottom: none;
+    max-height:none;
+    // padding-top: 1rem;
+    // height:fit-content;
+  }
+  .site-title {
+    padding-top: 2.5rem;
+    padding-bottom: 2rem;
+    height:fit-content;
+    font-size: 1.5rem !important;
+  }
+}
+
+@media (min-width: 50rem) {
+  .site-header {
+    height: fit-content;
+  }
+}
+
+.site-nav {
+  padding-top: none;
+}
+
 .main-content {
   h2, h3 {
     margin-top: 0;
+  }
+
+  h6 {
+    margin-top: -10px;
+    font-weight: 400;
   }
 
   dl {
@@ -66,19 +97,6 @@ summary {
     + dt {
       margin-top: 1em;
     }
-  }
-}
-
-.site-title {
-  padding-top: 2.5rem;
-  padding-bottom: 2rem;
-  font-size: 1.5rem !important;
-}
-
-.side-bar {
-  .site-header {
-    border-bottom: none;
-    padding-top: 2em;
   }
 }
 

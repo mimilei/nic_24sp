@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.github_repo }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Nature-Integrated Computing
+title: 'CSE5XX: Nature-Integrated Computing'
 tagline: Winter 2024
 description: Course website
 author: Michelle Chang
