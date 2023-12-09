@@ -28,6 +28,10 @@ summary {
   width: 100%;
 }
 
+.main-header {
+  display: none;
+}
+
 .main-content-wrap {
   max-width: $content-width;
   margin: auto;
@@ -59,10 +63,6 @@ summary {
       margin-top: 1em;
     }
   }
-}
-
-.main-header {
-  display: none;
 }
 
 .site-title {
