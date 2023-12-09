@@ -34,6 +34,10 @@ summary {
 }
 
 .main-content {
+  h2, h3 {
+    margin-top: 0;
+  }
+
   dl {
     display: block;
     grid-template-columns: none;
@@ -55,4 +59,55 @@ summary {
       margin-top: 1em;
     }
   }
+}
+
+.site-title {
+  padding-top: 2.5rem;
+  padding-bottom: 2rem;
+  font-size: 1.5rem !important;
+}
+
+.side-bar {
+  .site-header {
+    border-bottom: none;
+    padding-top: 2em;
+  }
+}
+
+img[alt=splash_img] {
+  width: 100%;
+  height: auto;
+}
+
+.staffer {
+  display: inline-flex;
+}
+
+// Custom label colors
+b, strong {
+  font-weight: bold;
+}
+
+.label-peach:not(g) {
+  background-color: #d5bdaf;
+}
+
+.label-rosebud:not(g) {
+  background-color: #ffb5a7;
+}
+
+.label-matcha:not(g) {
+  background-color: #a3b18a;
+}
+
+.label-pear:not(g) {
+  background-color: #84a98c;
+}
+
+.label-forest:not(g) {
+  background-color: #52796f;
+}
+
+a {
+  color: #52796f;
 }
