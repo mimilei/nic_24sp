@@ -46,6 +46,10 @@ summary {
   margin: auto;
 }
 
+.site-nav {
+  padding-top: 0;
+}
+
 .side-bar {
   .site-header {
     border-bottom: none;
@@ -65,10 +69,6 @@ summary {
   .site-header {
     height: fit-content;
   }
-}
-
-.site-nav {
-  padding-top: 0;
 }
 
 .main-content {
