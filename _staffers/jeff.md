@@ -3,7 +3,7 @@ name: Jeff Nivala
 role: Instructor
 email: jmdn@uw.edu 
 # website: https://kevinl.info
-photo: kevin.jpg
+photo: jeff-nivala.jpg
 # meta:
 #   Office Hours: Somewhere on the internet
 ---

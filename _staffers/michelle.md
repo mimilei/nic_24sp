@@ -3,7 +3,7 @@ name: Michelle Chang
 role: Teaching Assistant
 email: changml@uw.edu
 # website: https://kevinl.info
-photo: kevin.jpg
+photo: michelle.jpeg
 # meta:
 #   Office Hours: Somewhere on the internet
 ---
