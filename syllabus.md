@@ -6,6 +6,7 @@ description: >-
 ---
 ![splash_img](assets/images/glowing_plants.jpeg)
 ###### _Bioluminescent engineered plants by MIT's Strano Research Group ([source](https://www.designboom.com/technology/mit-read-light-glowing-plant-lamp-10-09-2021/))._
+{: .no_toc}
 
 # Syllabus
 {:.no_toc}
