@@ -19,7 +19,7 @@ Apr 15
   : [Case Study](#), [Deepdive](#)
   
 Apr 22
-:  **Speaker**{: .label .label-matcha } [TBD: Coleen Josephson](#): Microbial Fuel Cells
+: **Speaker**{: .label .label-matcha } [TBD: Coleen Josephson](#): Microbial Fuel Cells
   : [Case Study](#), [Deepdive Paper](#)
 
 Apr 29
