@@ -2,46 +2,46 @@
 title:
 ---
 
-Jan 1
+Mar 25
 : No Class
   : No readings
 
-Jan 8
+Apr 1
 : Overview & Motivating Discussion
-  : No readings
+  : [Review Paper](#)
 
-Jan 15
+Apr 8
 : Synthetic Biology for Organism Augmentation
   : [Case Study](#), [Deepdive](#)
 
-Jan 22
-: Fabricating with Bacteria <br/> Bioprinter Tutorial
+Apr 15
+: Plant Nanobionics <br/> Bioprinter Tutorial
   : [Case Study](#), [Deepdive](#)
   
-Jan 29
-: Microbial Fuel Cells
+Apr 22
+:  **Speaker**{: .label .label-matcha } [TBD: Coleen Josephson](#): Microbial Fuel Cells
   : [Case Study](#), [Deepdive Paper](#)
 
-Feb 5
-: **Speaker**{: .label .label-matcha } [TBD: Vikram Iyer](#): Wearables for Insects
+Apr 29
+: **Speaker**{: .label .label-matcha } [TBD: Vikram Iyer](#): Epidermal electronics for insects
   : [Case Study](#), [Deepdive](#)
 
-Feb 12
-: Plant Nanobionics <br/> Final project overview
-  : [Case Study](#), [Deepdive](#)
-
-Feb 19
+May 6
 : **Speaker**{: .label .label-matcha } [Jeff Nivala](#): DNA Data Storage
   : [Case Study](#), [Deepdive](#)
 
-Feb 26
-: **Activity**{: .label .label-rosebud } Bioprinting!
+May 13
+:  **Activity**{: .label .label-rosebud } Bioprinting!
+  : [Case Study](#), [Deepdive](#)
+
+May 20
+: Fabrication <br/> Biodesign
   : Work on your presentations!
 
-Mar 4
+May 27
 : Final Presentations & Closing Discussion
   : No readings
 
-Mar 11
+Jun 3
 : No Class - Finals Week
   : No readings

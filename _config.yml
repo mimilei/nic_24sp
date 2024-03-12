@@ -13,11 +13,11 @@
 # you will see them accessed via {{ site.title }}, {{ site.github_repo }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: 'CSE 5XX: Nature-Integrated Computing'
-tagline: Winter 2024
+title: 'CSE 590X: Nature-Integrated Computing'
+tagline: Spring 2024
 description: Course website
 author: Michelle Chang
-baseurl: '/nic_24wi' # the subpath of your site, e.g. /blog
+baseurl: '/nic_24sp' # the subpath of your site, e.g. /blog
 url: 'https://mimilei.github.io' # the base hostname & protocol for your site, e.g. http://example.com
 exclude: ["Gemfile", "Gemfile.lock", "LICENSE"]
 
