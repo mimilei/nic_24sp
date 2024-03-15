@@ -10,9 +10,9 @@ seo:
 ![splash_img](assets/images/nic_sampler.png)
 ###### _(Left to Right) Living actuators, plant wearables, printed cyanobacteria, electronic beetle backpack, DNA data storage._
 <!-- _(Left to Right) Living actuators, plant wearables, printed cyanobacteria, electronic beetle backpack, DNA data storage._ -->
-# CSE 5XX: Nature-Integrated Computing
+# CSE 590: Nature-Integrated Computing
 ### Approaches for Engineering, Computing, and Interfacing with Living Materials 
-#### University of Washington, Winter 2024
+#### University of Washington, Spring 2024
 {% assign instructors = site.staffers | where: 'role', 'Instructor' %}
 {% for staffer in instructors %}
 {{ staffer }}

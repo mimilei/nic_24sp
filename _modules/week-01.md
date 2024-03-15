@@ -31,7 +31,7 @@ May 6
   : [Case Study](#), [Deepdive](#)
 
 May 13
-:  **Activity**{: .label .label-rosebud } Bioprinting!
+: **Activity**{: .label .label-rosebud } Bioprinting!
   : [Case Study](#), [Deepdive](#)
 
 May 20
