@@ -11,31 +11,31 @@ Apr 1
   : [Review Paper](#)
 
 Apr 8
-: Synthetic Biology for Organism Augmentation
-  : [Case Study](#), [Deepdive](#)
+: Bio-fabrication
+  : [Case Study](#), [Technology Overview](#)
 
 Apr 15
-: Plant Nanobionics <br/> Bioprinter Tutorial
-  : [Case Study](#), [Deepdive](#)
+: Plant Nanobionics/Bioelectronics
+  : [Case Study](#), [Technology Overview](https://pubs.acs.org/doi/10.1021/acs.chemrev.1c00525#)
   
 Apr 22
 : **Speaker**{: .label .label-matcha } [TBD: Coleen Josephson](#): Microbial Fuel Cells
-  : [Case Study](#), [Deepdive Paper](#)
+  : [Case Study](#), [Technology Overview](#)
 
 Apr 29
 : **Speaker**{: .label .label-matcha } [TBD: Vikram Iyer](#): Epidermal electronics for insects
-  : [Case Study](#), [Deepdive](#)
+  : [Case Study](#), [Technology Overview](#)
 
 May 6
-: **Speaker**{: .label .label-matcha } [Jeff Nivala](#): DNA Data Storage
-  : [Case Study](#), [Deepdive](#)
+: **Activity**{: .label .label-rosebud } Bioprinting tutorial <br/> Project Ideation Day
+  : [Case Study](#), [Technology Overview](#)
 
 May 13
-: **Activity**{: .label .label-rosebud } Bioprinting!
-  : [Case Study](#), [Deepdive](#)
+: **Speaker**{: .label .label-matcha } [Jeff Nivala](#): DNA Data Storage
+  : [Case Study](#), [Technology Overview](#)
 
 May 20
-: Fabrication <br/> Biodesign
+: Synthetic Biology
   : Work on your presentations!
 
 May 27
