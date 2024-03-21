@@ -31,7 +31,7 @@ aux_links:
 footer_content:
 nav_external_links:
   - title: Reading List
-    url: https://github.com/just-the-docs/just-the-docs
+    url: https://docs.google.com/spreadsheets/d/1Si53sSbFGeQ50uM6Jd4PjoiEwpKayhDCH6rAfh1X6ow/edit#gid=1239935391
     hide_icon: false # set to true to hide the external link icon - defaults to false
     opens_in_new_tab: true # set to true to open this link in a new tab - defaults to false
 
