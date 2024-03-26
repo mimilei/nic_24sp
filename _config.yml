@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.github_repo }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: 'CSE 590: Nature-Integrated Computing'
+title: 'CSE 590 N1: Nature-Integrated Computing'
 tagline: Spring 2024
 description: Course website
 author: Michelle Chang
@@ -30,6 +30,10 @@ permalink: pretty
 aux_links:
 footer_content:
 nav_external_links:
+  - title: Course Listing
+    url: https://sdb.admin.uw.edu/timeschd/uwnetid/sln.asp?QTRYR=SPR+2024&SLN=21920
+    hide_icon: false # set to true to hide the external link icon - defaults to false
+    opens_in_new_tab: true # set to true to open this link in a new tab - defaults to false
   - title: Reading List
     url: https://docs.google.com/spreadsheets/d/1Si53sSbFGeQ50uM6Jd4PjoiEwpKayhDCH6rAfh1X6ow/edit#gid=1239935391
     hide_icon: false # set to true to hide the external link icon - defaults to false
