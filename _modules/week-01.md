@@ -19,15 +19,15 @@ Apr 25
   : [Case Study](https://ieeexplore-ieee-org.offcampus.lib.washington.edu/abstract/document/9937297), [Technology Overview](https://www.sciencedirect.com/science/article/pii/S0048969723013736)
 
 May 2
-: **Speaker**{: .label .label-matcha } [Vikram Iyer](#): Epidermal electronics for insects
+: **Speaker**{: .label .label-matcha } Vikram Iyer: Insect-Scale Electronics
   : [Case Study](https://www.science.org/doi/full/10.1126/scirobotics.abb0839), [Technology Overview (TBD)](#)
 
 May 9
-: **Activity**{: .label .label-rosebud } Bioprinting tutorial <br/> Project Ideation Day
+: **Activity**{: .label .label-rosebud } Bioprinting & Project Ideation
   : No readings
 
 May 16
-: **Speaker**{: .label .label-matcha } [Jeff Nivala](#): DNA Data Storage
+: **Speaker**{: .label .label-matcha } Jeff Nivala: DNA Data Storage
   : [Case Study (TBD)](#), [Technology Overview](https://www.nature.com/articles/s41576-019-0125-3)
 
 May 23
