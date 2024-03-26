@@ -37,5 +37,4 @@ This seminar is geared for graduate-level practitioners (makers, designers, engi
 
 ## Logistics & Comms
 - **This site** will serve as the source of truth for scheduling and agenda items.
-- **Slack** will serve as an informal communication channel between classes.
-- **Google Drive** will contain readings and other shared class resources.
+- **Google Drive** will contain shared class resources (spreadsheets, class notes, reading list, etc).

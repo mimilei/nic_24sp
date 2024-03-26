@@ -34,8 +34,8 @@ nav_external_links:
     url: https://sdb.admin.uw.edu/timeschd/uwnetid/sln.asp?QTRYR=SPR+2024&SLN=21920
     hide_icon: false # set to true to hide the external link icon - defaults to false
     opens_in_new_tab: true # set to true to open this link in a new tab - defaults to false
-  - title: Reading List
-    url: https://docs.google.com/spreadsheets/d/1Si53sSbFGeQ50uM6Jd4PjoiEwpKayhDCH6rAfh1X6ow/edit#gid=1239935391
+  - title: Class Drive
+    url: https://drive.google.com/drive/folders/1Ek_nC3wz-Fs1FjZOH6ZSqQi5npgZWh3g?usp=drive_link
     hide_icon: false # set to true to hide the external link icon - defaults to false
     opens_in_new_tab: true # set to true to open this link in a new tab - defaults to false
   - title: Final Project (Stay Tuned)
