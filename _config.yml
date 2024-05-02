@@ -38,8 +38,8 @@ nav_external_links:
     url: https://drive.google.com/drive/folders/1Ek_nC3wz-Fs1FjZOH6ZSqQi5npgZWh3g?usp=drive_link
     hide_icon: false # set to true to hide the external link icon - defaults to false
     opens_in_new_tab: true # set to true to open this link in a new tab - defaults to false
-  - title: Final Project (Stay Tuned)
-    url: # 
+  - title: Final Project
+    url: https://docs.google.com/document/d/1rAIGi_HClsHfOLnSAWSTnK0EX9NrsRIiAXZWgDcS044/edit?usp=drive_link 
     hide_icon: false # set to true to hide the external link icon - defaults to false
     opens_in_new_tab: true # set to true to open this link in a new tab - defaults to false
 
