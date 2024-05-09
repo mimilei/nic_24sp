@@ -28,7 +28,7 @@ May 9
 
 May 16
 : **Speaker**{: .label .label-matcha } Jeff Nivala: DNA Data Storage
-  : [[Technology Overview](https://www.nature.com/articles/s41576-019-0125-3)
+  : [Technology Overview](https://www.nature.com/articles/s41576-019-0125-3)
 
 May 23
 : **Speaker**{: .label .label-matcha } Cholpisit Ice Kiattisewee: CRISPR for Biosensing
