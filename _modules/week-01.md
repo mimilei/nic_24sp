@@ -31,7 +31,7 @@ May 16
   : [Case Study](https://www.nature.com/articles/s41589-020-00711-4), [Technology Overview](https://www.nature.com/articles/s41576-019-0125-3)
 
 May 23
-: **Speaker**{: .label .label-matcha } Cholpisit Ice Kiattisewee: CRISPR for Biosensing
+: **Speaker**{: .label .label-matcha } Diego Alba Burbano, Cholpisit Ice Kiattisewee: CRISPR for Biosensing
   : [Intro to CRISPR](https://innovativegenomics.org/crisprpedia/), [Deep Dive](https://www-annualreviews-org.offcampus.lib.washington.edu/content/journals/10.1146/annurev-chembioeng-100522-114706)
 
 May 30
